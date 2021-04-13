@@ -1,0 +1,22 @@
+{
+  "contestantCount" : 4,
+  "contestants" : {
+    "contestant1" : {
+      "answer" : "1",
+      "name" : "ABC"
+    },
+    "contestant2" : {
+      "answer" : "2",
+      "name" : "abc"
+    },
+    "contestant3" : {
+      "answer" : "3",
+      "name" : "XYZ"
+    },
+    "contestant4" : {
+      "answer" : "2",
+      "name" : "xyz"
+    }
+  },
+  "gamestate" : 1
+}
